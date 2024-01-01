@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodlist>
+    <fooditem type="Italian">
+        <name>Alfredo Pasta</name>
+        <cost>$18</cost>
+    </fooditem>
+    <fooditem type="American">
+        <name>Steak</name>
+        <cost>$15</cost>
+    </fooditem>
+    <fooditem type="Pakistani">
+        <name>Biryani</name>
+        <cost>$13</cost>
+    </fooditem>
+    <fooditem type="Chineese">
+        <name>Fried Rice</name>
+        <cost>$10</cost>
+    </fooditem>
+    <fooditem type="American">
+        <name>Lasagne</name>
+        <cost>$20</cost>
+    </fooditem>
+</foodlist>
