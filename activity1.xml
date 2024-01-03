@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="activity1.xsl" type="text/xsl"?>
+
+<bank>
+    <employees>
+        <id>125</id>
+        <name>Afnan</name>
+        <salary>95000</salary>
+    </employees>
+
+    <employees>
+        <id>106</id>
+        <name>Umair</name>
+        <salary>85000</salary>
+    </employees>
+
+    <employees>
+        <id>130</id>
+        <name>Danish</name>
+        <salary>80000</salary>
+    </employees>
+
+    <employees>
+        <id>104</id>
+        <name>Mateen</name>
+        <salary>75000</salary>
+    </employees>
+</bank>
+
