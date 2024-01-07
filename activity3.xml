@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="activity3.xsl" type="text/xsl"?>
+
+<cd>
+    <collection>
+        <title>Bridge of Spices</title>
+        <artist>T Pau</artist>
+    </collection>
+    
+    <collection>
+        <title>Blank Space</title>
+        <artist>Tylor Swift</artist>
+    </collection>
+
+    <collection>
+        <title>Let me love you</title>
+        <artist>Justin</artist>
+    </collection>
+
+    <collection>
+        <title>Dreamers</title>
+        <artist>Jungkook</artist>
+    </collection>
+
+    <collection>
+        <title>Levitating</title>
+        <artist>Dua Lipa</artist>
+    </collection>
+
+    <collection>
+        <title>For the good times</title>
+        <artist>Kenny Roggers</artist>
+    </collection>
+
+    <collection>
+        <title>Still got the blues</title>
+        <artist>Gary Moore</artist>
+    </collection>
+
+    <collection>
+        <title>The very best of</title>
+        <artist>Cat Stevens</artist>
+    </collection>
+    
+    <collection>
+        <title>Empire Burlesque</title>
+        <artist>Bob Dtian</artist>
+    </collection>
+
+    <collection>
+        <title>Hide your heart</title>
+        <artist>Bonnie Tyler</artist>
+    </collection>
+
+
+    <collection>
+        <title>Greatest Hits</title>
+        <artist>Dolly Parton</artist>
+    </collection>
+
+
+    <collection>
+        <title>Eros</title>
+        <artist>Eros Ramazzotti</artist>
+    </collection>
+
+
+    <collection>
+        <title>One night only</title>
+        <artist>Bee Gees</artist>
+    </collection>
+
+
+    <collection>
+        <title>Sylvias Mother</title>
+        <artist>Dr.Hook</artist>
+    </collection>
+
+
+    <collection>
+        <title>Maggie May</title>
+        <artist>Rod Stewart</artist>
+    </collection>
+
+
+    <collection>
+        <title>Romanza</title>
+        <artist>Andrea Bocelli</artist>
+    </collection>
+
+
+    <collection>
+        <title>When a man loves a women</title>
+        <artist>Percy Sledge</artist>
+    </collection>
+
+
+    <collection>
+        <title>Black Angel</title>
+        <artist>Savage Rose</artist>
+    </collection>
+
+
+    <collection>
+        <title>Soulville</title>
+        <artist>Jorn Hoel</artist>
+    </collection>
+
+
+    <collection>
+        <title>Life Goes On</title>
+        <artist>BTS</artist>
+    </collection>
+
+</cd>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="activity2.xsl" type="text/xsl"?>
+
+<company>
+    <employees>
+        <id>09125</id>
+        <name>Afnan</name>
+        <salary>300000</salary>
+        <joining-date>25-dec-2020</joining-date>
+        <position>CEO</position>
+    </employees>
+
+    <employees>
+        <id>10234</id>
+        <name>Umair</name>
+        <salary>50000</salary>
+        <joining-date>6-oct-2021</joining-date>
+        <position>Manager</position>
+    </employees>
+
+    <employees>
+        <id>12430</id>
+        <name>Arshan</name>
+        <salary>50000</salary>
+        <joining-date>20-dec-2019</joining-date>
+        <position>HR</position>
+    </employees>
+
+    <employees>
+        <id>20130</id>
+        <name>Danish</name>
+        <salary>100000</salary>
+        <joining-date>30-dec-2018</joining-date>
+        <position>MD</position>
+    </employees>
+
+    <employees>
+        <id>02509</id>
+        <name>Javeria</name>
+        <salary>200000</salary>
+        <joining-date>9-dec-2020</joining-date>
+        <position>Manager</position>
+    </employees>
+</company>
